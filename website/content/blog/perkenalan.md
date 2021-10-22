@@ -1,7 +1,7 @@
 +++
 author = "erika dwi margareta"
 bg_image = ""
-date = 2021-10-22T15:08:00Z
+date = 2021-10-22T15:15:00Z
 description = ""
 tags = []
 title = "perkenalan"
